@@ -1,0 +1,31 @@
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack_TemporaryKey.pfx
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.exe.config
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.exe
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.pdb
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.csprojAssemblyReference.cache
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\EricsBlackJack.Form1.resources
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\EricsBlackJack.Properties.Resources.resources
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.csproj.GenerateResource.cache
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.exe
+C:\Users\edigi\Desktop\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.pdb
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack_TemporaryKey.pfx
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.exe.config
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.exe
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.pdb
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.csprojAssemblyReference.cache
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\EricsBlackJack.Form1.resources
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\EricsBlackJack.Properties.Resources.resources
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.csproj.GenerateResource.cache
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.csproj.CoreCompileInputs.cache
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.exe
+F:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.pdb
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack_TemporaryKey.pfx
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.exe.config
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.exe
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\bin\Debug\Eric's BlackJack.pdb
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\EricsBlackJack.Form1.resources
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\EricsBlackJack.Properties.Resources.resources
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.csproj.GenerateResource.cache
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.exe
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.pdb
+A:\WebsterBlackJackGiveToStudents\GreenvilleRevenueGUI\obj\Debug\Eric's BlackJack.csprojAssemblyReference.cache
